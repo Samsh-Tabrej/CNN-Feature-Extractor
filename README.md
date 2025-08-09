@@ -1,10 +1,9 @@
 # CNN-Feature-Extractor
-# FPGA-Based Hybrid CNN-ViT Accelerator for Edge AI Applications
+# FPGA-Based VGG-16 feature extractor for Edge AI Applications
 
 ## Authors
 - **Md Samsh Tabrej**
 - **Ashish Kumar Sahoo**
-- **Swejal Patra**
 
 ---
 
